@@ -123,7 +123,7 @@ Agentic_AI_Project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/prakruthig16/Agentic_AI_Project.git
+[git clone https://github.com/pruthvirajsingh01/Agentic_AI_Project
 cd Agentic_AI_Project
 ```
 
@@ -207,10 +207,12 @@ http://127.0.0.1:8000/
 
 ## Author
 
-**Prakruthi G**
+## Project Maintainer
 
-- GitHub: https://github.com/prakruthig16
-- LinkedIn: https://www.linkedin.com/in/prakruthi-g-177b4225b
+Pruthviraj Singh
+
+GitHub: https://github.com/pruthvirajsingh01
+linkedin.com/in/pruthviraj-singh-050414421  
 
 ## License
 
