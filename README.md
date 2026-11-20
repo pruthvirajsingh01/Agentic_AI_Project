@@ -123,7 +123,7 @@ Agentic_AI_Project/
 ### 1. Clone the repository
 
 ```bash
-[git clone https://github.com/pruthvirajsingh01/Agentic_AI_Project
+git clone https://github.com/pruthvirajsingh01/Agentic_AI_Project
 cd Agentic_AI_Project
 ```
 
